@@ -12,6 +12,10 @@ I'll start by documenting what I want.  If I haven't found an existing alternati
 
 With `ssh` you can `ssh` onto the remote box. Nothing else needed.
 
+## pipable commands
 
+I want to be able to fetch `post_content`, pipe it through some modifiers in the shell, and send it back to WordPress.
 
+## fix wp post edit
 
+Always goes to `nano`.
